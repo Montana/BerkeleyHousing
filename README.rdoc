@@ -16,5 +16,5 @@ So, what can users do?
 * Follow a listing that someone else has posted
 * Contact the owners of a listing(marks as contacted)
 * Search for listings (places or people) based on some criteria
-**
+    *
 
