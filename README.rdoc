@@ -7,12 +7,14 @@ way you're supposed to find and aquire housing was a lot harder than it
 needed to me. BerkeleyHousing will hopefully simplify and improve the
 housing experience at Berkeley.
 
-* System dependencies
-* Configuration
-* Database creation
-* Database initialization
-* How to run the test suite
-* Services (job queues, cache servers, search engines, etc.)
-* Deployment instructions
-* ...
+
+So, what can users do?
+* (Create) a listing for a new roommate or a listing looking for a new room
+* (Read) Look at a listing
+* (Update) Edit a listing they have created
+* (Destroy-ish) Mark a listing as inactive
+* Follow a listing that someone else has posted
+* Contact the owners of a listing(marks as contacted)
+* Search for listings (places or people) based on some criteria
+**
 
