@@ -4,8 +4,9 @@ This webapp is a project of mine that spawned out of a need to ensure
 that students at Berkeley who might have trouble finding housing can
 find it. When I came back to Berkeley after a while, I realized that the
 way you're supposed to find and aquire housing was a lot harder than it
-needed to me. BerkeleyHousing will hopefully simplify and   
-* 
+needed to me. BerkeleyHousing will hopefully simplify and improve the
+housing experience at Berkeley.
+
 * System dependencies
 * Configuration
 * Database creation
