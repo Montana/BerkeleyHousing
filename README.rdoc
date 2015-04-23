@@ -9,12 +9,12 @@ housing experience at Berkeley.
 
 
 So, what can users do?
-* (Create) a listing for a new roommate or a listing looking for a new room
+* (Create) a listing for a new roommate or a listing looking for a new room +
 * (Read) Look at a listing
-* (Update) Edit a listing they have created
-* (Destroy-ish) Mark a listing as inactive
-* Follow a listing that someone else has posted
-* Contact the owners of a listing(marks as contacted)
+* (Update) Edit a listing they have created +
+* (Destroy-ish) Owner can mark a listing as inactive +
+* Follow a listing that someone else has posted +
+* Contact the owners of a listing(marks as contacted) +
 * Search for listings (places or people) based on some criteria
-    *
-
+    
++ denotes an action that can only be done when logged in.
