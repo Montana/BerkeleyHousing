@@ -21,6 +21,6 @@ So, what can users do?
 
 -------------------------
 I ended up starting development of this project on several different machines all 
-running Ubuntu 14.04 and used a tutorial at https://gorails.com/setup/ubuntu/14.04 
+running Ubuntu 14.04 and used a {tutorial from here}[https://gorails.com/setup/ubuntu/14.04] 
 to set up my environment. I then cloned the existing project onto the local 
 machine. If you want to try working on this as well, then you are free to do so!
