@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'newrelic_rpm'
+gem 'therubyracer'
+gem 'devise'
+gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'rails', '4.2.0'
 gem 'sass-rails', '~> 5.0'
