@@ -1,6 +1,14 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :listings
   root 'listings#index'
+=======
+  devise_for :users
+  resources :listings
+
+  root 'listings#index'
+
+>>>>>>> b4fbab232845187bcfdc6a4581ac20dcebab71b6
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
